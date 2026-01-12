@@ -6,14 +6,9 @@ This project performs **sentiment analysis on Twitter data**, classifying tweets
 
 ---
 
-Demonstration
-<p align="center">
-  <a href="" target="blank">
-    <img src="https://img.icon8.com/color/96/video.png" alt="Watch Demo"/>
-    <br>
-    <strong>Click towatch the demonstration video</strong>
-  </a>
-</p>
+## **Demonstration**
+Demo Video:
+https://drive.google.com/file/d/1BnYux4grqsjYd0c1wpXOIeVO3bOkjGzc/view?usp=sharing
 
 ---
 
